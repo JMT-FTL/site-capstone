@@ -17,6 +17,7 @@ Traveling often means fun and relaxation, but its planning can often get stressf
 1. Family Traveller
 
 PERSONA 1
+
 Name: Sarah Thompson
 Age: 35
 Travel Experience: Moderate
@@ -41,6 +42,7 @@ Overwhelmed by the abundance of options available during the planning phase.
 Time-consuming process of curating a personalized itinerary manually.
 
 PERSONA 2
+
 Name: David Johnson
 Age: 38
 Travel Experience: Moderate
